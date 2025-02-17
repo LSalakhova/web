@@ -5,7 +5,7 @@ I tested the Webstore ["Demoshopping.ru"](https://demoshopping.ru/) and prepared
 2. [Check list](https://docs.google.com/spreadsheets/d/1-YO5gSBaxfIakPl1U3Bl-hCXl2MueUJP5IuauvX2_Fo/edit?gid=0#gid=0) for testing the shopping cart and the payment module.
 3. [Test cases](https://github.com/LSalakhova/web/blob/main/Test%20cases%20via%20QASE.pdf) via QASE for testing the shopping cart and the payment module.
 4. [Test run results](https://github.com/LSalakhova/web/blob/main/Test%20run%20results%20QASE%20.pdf) via QASE.
-5. [Bug Report example](https://github.com/LSalakhova/web/blob/main/Bug%20reports%20from%20Youtrack.xlsx) via Youtrack.
+5. [Bug Report example](https://github.com/LSalakhova/web/blob/main/Bug%20reports%20Web%20via%20Youtrack%20.xlsx) via Youtrack.
 
 # 🫖  Replacing data with Charles Proxy
 
